@@ -43,7 +43,8 @@ window.onload = function() {
         "because it was rainy... Terrible.",
         "........What? Yeah, that's all dude...",
         "with their superpowers... True story.",
-        "by mistake... You know, sh*t happens."
+        "by mistake... You know, sh*t happens.",
+        "to preserve the world's balance... Or so they say..."  
       ]
     ];
     for (let array of excuse) {
